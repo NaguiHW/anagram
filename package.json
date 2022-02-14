@@ -1,0 +1,14 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-main:NaguiHW/anagram.git",
+  "author": "Kalib Hackin <naguihw@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
+  }
+}
